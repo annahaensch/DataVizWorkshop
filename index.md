@@ -4,7 +4,9 @@ Virtual , July 14th-16th, 10am - 12pm
 
 ## Description
 
-In this 3-day [Tufts DISC workshop](https://disc.tufts.edu/classes) we'll learn how to use Python to create impactful data visualizations. We'll discuss the fundamentals of data cleaning and exploratory data analysis with Python, we'll talk about the principles of effective data visualizations, and we'll explore the most common Python based tools in a data scientist's toolkit. The workshop will include lots of hand-on tutorials and time to experiment. There are no prerequisites for this workshop. It will be assumed that participants are new/novice Python users. No special software/downloads will be required; all programming exercises will take place online in Google Colab notebooks. 
+In this 3-day [Tufts DISC workshop](https://disc.tufts.edu/classes) we'll learn how to use Python to create impactful data visualizations. We'll discuss the fundamentals of data cleaning and exploratory data analysis with Python, we'll talk about the principles of effective data visualizations, and we'll explore the most common Python based tools in a data scientist's toolkit. The workshop will include lots of hand-on tutorials and time to experiment. 
+
+There are no prerequisites for this workshop. It will be assumed that participants are new/novice Python users. No special software/downloads will be required; all programming exercises will take place online in Google Colab notebooks. 
 
 ## Agenda & Materials
 
