@@ -29,7 +29,7 @@ There are no prerequisites for this workshop. It will be assumed that participan
 
 [Dr. Anna Haensch](annahaensch.com) is a Senior Data Scientist in the Tufts Data Intensive Studies Center and has a PhD in mathematics. Her research involves approaches of machine learning and Bayesian inference to understand complicated multi-tiered time series data. She is also interested in the ways that numerical and data literacy impact that way we produce and consume media.
 
-[Dr. Georgios Georgalis](add webiste) add bio.
+[Dr. Georgios Georgalis](add webiste) add bio. Test github
 
 [Dr. Karin Knudson](https://karinknudson.com/) is a Senior Data Scientist in the Tufts Data Intensive Studies Center and has a PhD in mathematics. Her research has involved the development and application of methods from machine learning, Bayesian statistics, and compressive sensing, particularly to neural data. She is interested in using approaches from data science to support scholarship across and between a range of disciplines, and is also interested in education for data science.
 
