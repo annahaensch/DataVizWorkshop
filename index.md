@@ -9,16 +9,19 @@ In this 3-day [Tufts DISC workshop](https://disc.tufts.edu/classes) we'll learn 
 ## Agenda & Materials
 
 ### Day 1: Data Preparation with Python
-* add slides
-* add notebooks
+* Day 1 Slides
+* [Notebook - Intro to Python Basics Notebook](https://colab.research.google.com/drive/1JvtbbJ-E_46xNhrvrNBzzvHdidZIjX9n?usp=sharing)
+* [Notebook - Intro to DataFrames Notebook](https://colab.research.google.com/drive/13Px4Vk-e6_EiTAVDPJFp5mu2XgPLPzws?usp=sharing)
+* [Notebook - Data Preparation with Python](https://colab.research.google.com/drive/1MkdfGK45ZV2--6lsYKNqkWz-Ntlb2hub?usp=sharing)
 
 ### Day 2: Principles of Data Visualization
-* add slides
-* add notebooks
+* Day 2 Slides
+* [Notebook - Classic Charts](https://colab.research.google.com/drive/1JvtbbJ-E_46xNhrvrNBzzvHdidZIjX9n?usp=sharing) 
 
 ### Day 3: Fancy Charts
-* add slides
-* add notebooks
+* Day 3 Slides
+* [Notebook - Maps](https://colab.research.google.com/drive/1klrld85axmLGJifUt7Cm6LDcfOoFpano?usp=sharing)
+* [Notebook - Radial Charts](https://colab.research.google.com/drive/1klrld85axmLGJifUt7Cm6LDcfOoFpano?usp=sharing)
 
 ## Organizers
 
