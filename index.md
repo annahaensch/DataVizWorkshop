@@ -12,8 +12,8 @@ There are no prerequisites for this workshop. It will be assumed that participan
 
 ### Day 1: Data Preparation with Python
 * Day 1 Slides
-* [Notebook - Intro to Python Basics Notebook](https://colab.research.google.com/drive/1JvtbbJ-E_46xNhrvrNBzzvHdidZIjX9n?usp=sharing)
-* [Notebook - Intro to DataFrames Notebook](https://colab.research.google.com/drive/13Px4Vk-e6_EiTAVDPJFp5mu2XgPLPzws?usp=sharing)
+* [Notebook - Intro to Python Basics](https://colab.research.google.com/drive/1JvtbbJ-E_46xNhrvrNBzzvHdidZIjX9n?usp=sharing)
+* [Notebook - Intro to DataFrames](https://colab.research.google.com/drive/13Px4Vk-e6_EiTAVDPJFp5mu2XgPLPzws?usp=sharing)
 * [Notebook - Data Preparation with Python](https://colab.research.google.com/drive/1MkdfGK45ZV2--6lsYKNqkWz-Ntlb2hub?usp=sharing)
 
 ### Day 2: Principles of Data Visualization
