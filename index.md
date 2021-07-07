@@ -23,7 +23,7 @@ There are no prerequisites for this workshop. It will be assumed that participan
 ### Day 3: Fancy Charts
 * Day 3 Slides
 * [Notebook - Maps](https://colab.research.google.com/drive/1klrld85axmLGJifUt7Cm6LDcfOoFpano?usp=sharing)
-* [Notebook - Radial Charts](https://colab.research.google.com/drive/1klrld85axmLGJifUt7Cm6LDcfOoFpano?usp=sharing)
+* [Notebook - Radial Charts](https://colab.research.google.com/drive/1HSQO3fHMAy4biiuybiqSlrpH54nSylOy?usp=sharing)
 
 ## Organizers
 
