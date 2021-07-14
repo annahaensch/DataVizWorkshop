@@ -11,13 +11,13 @@ There are no prerequisites for this workshop. It will be assumed that participan
 ## Agenda & Materials
 
 ### Day 1: Data Preparation with Python
-* [Day 1 Slides](https://docs.google.com/presentation/d/12jrsnVPOXe2ibP9LD5nAeCGXhFLhvA4Nxl7CFLvZl2k/edit?usp=sharing)
+* [Slides - Introduction](https://docs.google.com/presentation/d/12jrsnVPOXe2ibP9LD5nAeCGXhFLhvA4Nxl7CFLvZl2k/edit?usp=sharing)
 * [Notebook - Intro to Python Basics](https://colab.research.google.com/drive/1JeZlUIpuOB9fJFr6Uvb-tIJ4xPmVA5W0?usp=sharing)
 * [Notebook - Intro to DataFrames](https://colab.research.google.com/drive/13Px4Vk-e6_EiTAVDPJFp5mu2XgPLPzws?usp=sharing)
 * [Notebook - Data Preparation with Python](https://colab.research.google.com/drive/1MkdfGK45ZV2--6lsYKNqkWz-Ntlb2hub?usp=sharing)
 
 ### Day 2: Principles of Data Visualization
-* Day 2 Slides
+* [Slides - Day 2](https://docs.google.com/presentation/d/1DLGeEaNAXxKge_zWAnX82s9A6fJpe769pqTum1jHJpg/edit#slide=id.ge2ebaec461_0_46)
 * [Notebook - Classic Charts](https://colab.research.google.com/drive/1JvtbbJ-E_46xNhrvrNBzzvHdidZIjX9n?usp=sharing) 
 
 ### Day 3: Fancy Charts
